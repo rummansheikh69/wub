@@ -132,7 +132,7 @@ function App() {
         </div>
         {/* hero end */}
         {/* about  */}
-        <div className=" relative h-screen px-5 md:px-32">
+        <div className=" relative h-screen px-5 md:px-32 flex items-center justify-center flex-col ">
           {/* videos  */}
           <div className=" w-20 h-20 md:w-52 md:h-52 rounded-full overflow-hidden p-1 border-2 shadow-xl border-button absolute bottom-10 left-10">
             <video
