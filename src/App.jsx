@@ -25,7 +25,7 @@ function App() {
                 Wubnomics
               </a>
             </div>
-            <a href="https://letsbonk.fun/token/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk">
+            <a href="https://letsbonk.fun/token/E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk">
               <div className="w-32 md:w-40 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
                 <p className=" hero text-xl">BUY $WUB</p>
               </div>
@@ -48,7 +48,7 @@ function App() {
               </h1>
               <div className=" flex flex-col md:flex-row items-center gap-5 mt-5 md:mt-0">
                 <div className=" flex items-center gap-5">
-                  <a href="https://letsbonk.fun/token/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk">
+                  <a href="https://letsbonk.fun/token/E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk">
                     <div className=" w-40 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
                       <p className=" hero text-xl">BUY $WUB</p>
                     </div>
@@ -118,11 +118,11 @@ function App() {
           <div className=" flex items-center justify-center">
             <div className=" mt-20 z-40 w-80 border border-zinc-400 md:w-1/2 py-2 px-4 bg-white/50 rounded-xl  flex items-center justify-between">
               <p className=" heading text-black truncate">
-                2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk
+                E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk
               </p>
               <a
                 target="_blank"
-                href="https://letsbonk.fun/token/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk"
+                href="https://letsbonk.fun/token/E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk"
                 className=" p-2 border border-zinc-400 rounded-md bg-darkis"
               >
                 <MdArrowOutward />
@@ -162,7 +162,7 @@ function App() {
           </h4>
           <div className=" flex flex-col items-center justify-center">
             <p className=" text-center text-xl mt-10 md:mt-16 w-full md:w-1/2 ex">
-              WUB started as a chubby, happy-go-lucky panda just vibing through
+              WUB started as a chubby, happy-go-lucky bear just vibing through
               life — golfing in the morning, skydiving by noon, and soaking in a
               bubble bath by night. Don’t let the soft fur and big eyes fool you
               — WUB is the face of a feel-good movement on the Solana
@@ -172,7 +172,7 @@ function App() {
             <p className=" text-center text-xl mt-5 w-full md:w-1/2 ex">
               While others chase charts, WUB lives life — one bite, one punch,
               and one meme at a time. Welcome to WUB: the most wholesome chaos
-              on Solana. 🐼✨
+              on Solana. ✨
             </p>
             <div className=" flex items-center gap-3 mt-5">
               <a href="https://x.com/wub_spl">
@@ -275,7 +275,7 @@ function App() {
                       SWAP
                     </h1>
                     <p className=" text-black/80 text-center text-sm">
-                      Switch SOL For $RIU.
+                      Switch SOL For $WUb.
                     </p>
                   </div>
                 </div>
@@ -309,7 +309,7 @@ function App() {
             </div>
             <div className=" w-80 px-3 mt-5 md:px-8 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
               <p className=" hero text-xl whitespace-nowrap truncate">
-                CA: 2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk
+                CA: E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk
               </p>
             </div>
           </div>
