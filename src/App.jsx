@@ -26,7 +26,7 @@ function App() {
               </a>
             </div>
             <a href="/">
-              <div className=" w-40 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
+              <div className="w-32 md:w-40 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
                 <p className=" hero text-xl">BUY $WUB</p>
               </div>
             </a>
@@ -37,27 +37,29 @@ function App() {
         <div className=" px-5 md:px-32 ">
           <div className=" flex justify-between mt-10">
             <div className=" relative">
-              <h1 className=" absolute next text-button text-3xl md:text-8xl -top-10 rotate-12 left-10">
+              <h1 className=" absolute next text-button text-4xl md:text-8xl -left-4 -top-4 md:-top-10 rotate-12 md:left-10">
                 #
               </h1>
-              <h1 className=" pl-0 md:pl-20 hero text-3xl md:text-8xl">
+              <h1 className=" pl-0 md:pl-20 hero text-5xl md:text-8xl">
                 WELCOME TO $WUB
               </h1>
-              <h1 className="  hero text-3xl md:text-8xl italic">
+              <h1 className="  hero text-4xl md:text-8xl italic">
                 TOKEN LAUNCHPOOL
               </h1>
-              <div className=" flex items-center gap-5">
-                <a href="">
-                  <div className=" w-40 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
-                    <p className=" hero text-xl">BUY $WUB</p>
-                  </div>
-                </a>
-                <a href="">
-                  <div className=" w-40 h-10 border border-black text-black bg-white rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
-                    <p className=" hero text-xl">JOIN COMUNITY</p>
-                  </div>
-                </a>
-                <p className=" w-full md:w-80 heading">
+              <div className=" flex flex-col md:flex-row items-center gap-5 mt-5 md:mt-0">
+                <div className=" flex items-center gap-5">
+                  <a href="">
+                    <div className=" w-40 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
+                      <p className=" hero text-xl">BUY $WUB</p>
+                    </div>
+                  </a>
+                  <a href="">
+                    <div className=" w-40 h-10 border border-black text-black bg-white rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
+                      <p className=" hero text-xl">JOIN COMUNITY</p>
+                    </div>
+                  </a>
+                </div>
+                <p className=" w-full md:w-80 heading text-center md:text-start">
                   Degens, unite! the most unhinged token presale is live - don't
                   fade $WUB!
                 </p>
@@ -84,8 +86,8 @@ function App() {
           </div>
           <div className=" flex items-center justify-center mt-16">
             <div className=" flex items-center gap-5">
-              <div className=" relative h-40 w-72 bg-darkis rounded-[30px]">
-                <div className=" w-52 absolute bottom-0 right-0 left-0 mx-auto">
+              <div className=" relative  w-32 h-20 md:h-40 md:w-72 bg-darkis rounded-[30px]">
+                <div className=" w-32 md:w-52 absolute bottom-0 right-0 left-0 mx-auto">
                   <img
                     src="https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753365045/5d54b2d5-e6f0-45f7-93ff-7996cecf6066_removalai_preview_y0fwdj.png"
                     className=" w-full h-full object-contain "
@@ -93,8 +95,8 @@ function App() {
                   />
                 </div>
               </div>
-              <div className=" relative h-40 w-72 bg-darkis rounded-[30px]">
-                <div className=" w-52 absolute bottom-0 right-0 left-0 mx-auto">
+              <div className=" relative w-32 h-20 md:h-40 md:w-72 bg-darkis rounded-[30px]">
+                <div className=" md:w-52 absolute bottom-0 right-0 left-0 mx-auto">
                   <img
                     src="https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753385436/ecd7aaa7-1ada-4616-98b5-687fe2549b86_removalai_preview_yfvjns.png"
                     className=" w-full h-full object-contain "
@@ -102,8 +104,8 @@ function App() {
                   />
                 </div>
               </div>
-              <div className=" relative h-40 w-72 bg-darkis rounded-[30px]">
-                <div className=" w-72 absolute bottom-0 right-0 left-0 mx-auto">
+              <div className=" relative  w-32 h-20 md:h-40 md:w-72 bg-darkis rounded-[30px]">
+                <div className=" w-40 md:w-72 absolute bottom-0 right-0 left-0 mx-auto">
                   <img
                     src="https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753364898/Removal-857_y2pggs.png"
                     className=" w-full h-full object-contain "
@@ -152,7 +154,7 @@ function App() {
           </div>
           {/* videos end */}
 
-          <h1 className=" text-center pt-10 md:pt-32 text-4xl md:text-7xl ex font-bold">
+          <h1 className=" text-center pt-10 md:pt-32 text-5xl md:text-7xl ex font-bold">
             ABOUT
           </h1>
           <h4 className=" -mt-6 text-center text-button text-2xl next -rotate-3">
@@ -190,7 +192,7 @@ function App() {
         {/* how to buy  */}
         <div className=" relative  h-screen px-5 md:px-32">
           <div className="  flex w-full h-full items-center justify-center">
-            <h1 className="relative  text-center text-4xl md:text-8xl font-bold ex">
+            <h1 className="relative  text-center text-7xl md:text-8xl font-bold ex">
               <span className=" absolute left-28 rotate-12 -top-14 text-button next text-6xl md:text-9xl">
                 #
               </span>
@@ -201,7 +203,7 @@ function App() {
           </div>
 
           <div className=" absolute inset-0 px-5 md:px-32 md:py-16  ">
-            <div className=" md:grid grid-cols-2 gap-10 w-full h-full">
+            <div className=" grid grid-cols-2 gap-10 w-full h-full">
               <div className="  relative">
                 <div className=" absolute md:left-16  w-52 backdrop-blur-[7px] bg-white/30  h-56 rounded-3xl -rotate-12 border border-zinc-400 p-3">
                   <div className=" flex flex-col items-center justify-center gap-2 w-full h-full">
@@ -284,12 +286,40 @@ function App() {
         {/* how to buy  end */}
 
         {/* tokenomics  */}
-        <div className=" h-screen px-5 md:px-32">
-          <div className=" flex items-center justify-center w-full h-full">
-            <h1 className="ex text-4xl md:text-8xl">Tokenomics</h1>
+        <div className=" h-[50vh] md:h-[85vh] px-5 md:px-32">
+          <div className=" flex flex-col items-center justify-center w-full h-full">
+            <h1 className="ex text-6xl md:text-8xl">Tokenomics</h1>
+            <div className=" flex items-center gap-3 md:gap-8 mt-10">
+              <div className=" px-3 md:px-8 h-10 border border-black text-black bg-white rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
+                <p className=" hero text-xl whitespace-nowrap">
+                  SUPPLY <span className=" underline hero">1B</span>
+                </p>
+              </div>
+
+              <div className=" px-3 md:px-8 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
+                <p className=" hero text-xl whitespace-nowrap">
+                  <span className=" hero underline">0%</span> TAX
+                </p>
+              </div>
+              <div className=" px-3 md:px-8 h-10 border border-black text-black bg-white rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
+                <p className=" hero text-xl whitespace-nowrap">
+                  <span className=" hero underline">100%</span> BURNT
+                </p>
+              </div>
+            </div>
+            <div className=" w-80 px-3 mt-5 md:px-8 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
+              <p className=" hero text-xl whitespace-nowrap truncate">
+                CA: 2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk
+              </p>
+            </div>
           </div>
         </div>
         {/* tokenomics end */}
+        {/* footer  */}
+        <p className=" text-2xl text-center py-8 hero">
+          © {new Date().getFullYear()} WUB
+        </p>
+        {/* footer end */}
       </div>
     </div>
   );
