@@ -60,7 +60,7 @@ function App() {
                   </a>
                 </div>
                 <p className=" w-full md:w-80 heading text-center md:text-start">
-                  Degens, unite! the most unhinged token presale is live - don't
+                  Degens, unite! the most unhinged token launchpool is live - don't
                   fade $WUB!
                 </p>
               </div>
