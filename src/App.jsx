@@ -134,7 +134,7 @@ function App() {
         {/* about  */}
         <div className=" relative h-screen px-5 md:px-32 flex items-center justify-center flex-col ">
           {/* videos  */}
-          <div className=" w-20 h-20 md:w-52 md:h-52 rounded-full overflow-hidden p-1 border-2 shadow-xl border-button absolute bottom-10 left-10">
+          <div className=" w-32 h-32 md:w-52 md:h-52 rounded-full overflow-hidden p-1 border-2 shadow-xl border-button absolute bottom-10 left-10">
             <video
               loop
               autoPlay
@@ -143,7 +143,7 @@ function App() {
               src="https://res.cloudinary.com/dsdg8ke2n/video/upload/v1753364773/u7122187825_httpss.mj.runHjtJxIM-4bw_animate_this_picture_sho_f0c53601-c52d-4ba0-b35e-8caec1449f3b_1_iz6r7p.mp4"
             ></video>
           </div>
-          <div className=" w-20 h-20 md:w-52 md:h-52 rounded-full overflow-hidden p-1 border-2 shadow-xl border-button absolute top-10 right-10">
+          <div className=" w-32 h-32 md:w-52 md:h-52 rounded-full overflow-hidden p-1 border-2 shadow-xl border-button absolute top-10 right-10">
             <video
               loop
               autoPlay
