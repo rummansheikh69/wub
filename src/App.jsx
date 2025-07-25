@@ -25,7 +25,7 @@ function App() {
                 Wubnomics
               </a>
             </div>
-            <a href="/">
+            <a href="https://letsbonk.fun/token/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk">
               <div className="w-32 md:w-40 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
                 <p className=" hero text-xl">BUY $WUB</p>
               </div>
@@ -48,12 +48,12 @@ function App() {
               </h1>
               <div className=" flex flex-col md:flex-row items-center gap-5 mt-5 md:mt-0">
                 <div className=" flex items-center gap-5">
-                  <a href="">
+                  <a href="https://letsbonk.fun/token/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk">
                     <div className=" w-40 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
                       <p className=" hero text-xl">BUY $WUB</p>
                     </div>
                   </a>
-                  <a href="">
+                  <a href="https://x.com/i/communities/1948538430188912800">
                     <div className=" w-40 h-10 border border-black text-black bg-white rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
                       <p className=" hero text-xl">JOIN COMUNITY</p>
                     </div>
@@ -175,12 +175,12 @@ function App() {
               on Solana. 🐼✨
             </p>
             <div className=" flex items-center gap-3 mt-5">
-              <a href="">
+              <a href="https://x.com/wub_spl">
                 <div className=" w-40 hero h-10 border border-black text-black bg-button rounded-full gap-2 flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
                   <FaXTwitter /> <span className=" hero text-xl">Twitter</span>
                 </div>
               </a>
-              <a href="">
+              <a href="https://x.com/i/communities/1948538430188912800">
                 <div className=" w-40 h-10 border border-black text-black bg-white rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
                   <p className=" hero text-xl">JOIN COMUNITY</p>
                 </div>
