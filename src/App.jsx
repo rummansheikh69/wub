@@ -27,7 +27,7 @@ function App() {
             </div>
             <a href="https://letsbonk.fun/token/E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk">
               <div className="w-32 md:w-40 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
-                <p className=" hero text-xl">BUY $WUB</p>
+                <p className=" hero text-xl">BUY $MUB</p>
               </div>
             </a>
           </div>
