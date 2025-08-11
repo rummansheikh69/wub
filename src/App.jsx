@@ -118,11 +118,11 @@ function App() {
           <div className=" flex items-center justify-center">
             <div className=" mt-20 z-40 w-80 border border-zinc-400 md:w-1/2 py-2 px-4 bg-white/50 rounded-xl  flex items-center justify-between">
               <p className=" heading text-black truncate">
-                E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk
+                3R5sCsKs74NCgDLB3J7oepdmTU1UjSfZ4gu93tKRpump
               </p>
               <a
                 target="_blank"
-                href="https://letsbonk.fun/token/E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk"
+                href="https://pump.fun/coin/3R5sCsKs74NCgDLB3J7oepdmTU1UjSfZ4gu93tKRpump"
                 className=" p-2 border border-zinc-400 rounded-md bg-darkis"
               >
                 <MdArrowOutward />
@@ -198,7 +198,7 @@ function App() {
               </span>
               HOW TO BUY THE <br /> BILLIONAIRE{" "}
               <span className=" text-button next">$MUB</span> <br /> MEMECOIN ON
-              BONK.FUN
+             PUMP.FUN
             </h1>
           </div>
 
@@ -234,10 +234,10 @@ function App() {
                       />
                     </div>
                     <h1 className=" text-black/80 drop-shadow-lg text-2xl font-bold hero">
-                      Go To Bonk.fun
+                      Go To Pump.fun
                     </h1>
                     <p className=" text-black/80 text-center text-sm">
-                      Go Bonk.fun In Any Browser. Connect Your Wallet.
+                      Go Pump.fun In Any Browser. Connect Your Wallet.
                     </p>
                   </div>
                 </div>
@@ -256,7 +256,7 @@ function App() {
                       Get Some SOL
                     </h1>
                     <p className=" text-black/80 text-center text-sm">
-                      Have SOL In Your Wallet To Switch To $WUB
+                      Have SOL In Your Wallet To Switch To $MUB
                     </p>
                   </div>
                 </div>
