@@ -10,7 +10,7 @@ function App() {
         {/* navbar  */}
         <div className=" px-5 md:px-32 py-4 md:py-7 border-b">
           <div className=" flex items-center justify-between">
-            <h1 className=" text-3xl md:text-4xl hero ">$WUB</h1>
+            <h1 className=" text-3xl md:text-4xl hero ">$MUB</h1>
             <div className=" hidden md:flex items-center gap-10">
               <a href="/" className="heading hover:underline">
                 Home
@@ -22,7 +22,7 @@ function App() {
                 How To Buy
               </a>
               <a href="/" className="heading hover:underline">
-                Wubnomics
+                Mubnomics
               </a>
             </div>
             <a href="https://letsbonk.fun/token/E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk">
@@ -41,7 +41,7 @@ function App() {
                 #
               </h1>
               <h1 className=" pl-0 md:pl-20 hero text-5xl md:text-8xl">
-                WELCOME TO $WUB
+                WELCOME TO $MUB
               </h1>
               <h1 className="  hero text-4xl md:text-8xl italic">
                 TOKEN LAUNCHPOOL
@@ -50,7 +50,7 @@ function App() {
                 <div className=" flex items-center gap-5">
                   <a href="https://letsbonk.fun/token/E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk">
                     <div className=" w-40 h-10 border border-black text-black bg-button rounded-full flex items-center justify-center shadow-[2px_4px_0px_0px_#292929] hover:shadow-[1px_2px_0px_0px_#292929] duration-100">
-                      <p className=" hero text-xl">BUY $WUB</p>
+                      <p className=" hero text-xl">BUY $MUB</p>
                     </div>
                   </a>
                   <a href="https://x.com/i/communities/1948538430188912800">
@@ -61,7 +61,7 @@ function App() {
                 </div>
                 <p className=" w-full md:w-80 heading text-center md:text-start">
                   Degens, unite! the most unhinged token launchpool is live - don't
-                  fade $WUB!
+                  fade $MUB!
                 </p>
               </div>
             </div>
@@ -158,20 +158,20 @@ function App() {
             ABOUT
           </h1>
           <h4 className=" -mt-6 text-center text-button text-2xl next -rotate-3">
-            $WUB The Billionaire
+            $MUB The Billionaire
           </h4>
           <div className=" flex flex-col items-center justify-center">
             <p className=" text-center text-xl mt-10 md:mt-16 w-full md:w-1/2 ex">
-              WUB started as a chubby, happy-go-lucky bear just vibing through
+              MUB started as a chubby, happy-go-lucky bear just vibing through
               life — golfing in the morning, skydiving by noon, and soaking in a
               bubble bath by night. Don’t let the soft fur and big eyes fool you
-              — WUB is the face of a feel-good movement on the Solana
+              — MUB is the face of a feel-good movement on the Solana
               blockchain, bringing joy, chill energy, and pure vibes to a
               degenerate world.
             </p>
             <p className=" text-center text-xl mt-5 w-full md:w-1/2 ex">
-              While others chase charts, WUB lives life — one bite, one punch,
-              and one meme at a time. Welcome to WUB: the most wholesome chaos
+              While others chase charts, MUB lives life — one bite, one punch,
+              and one meme at a time. Welcome to MUB: the most wholesome chaos
               on Solana. ✨
             </p>
             <div className=" flex items-center gap-3 mt-5">
@@ -197,7 +197,7 @@ function App() {
                 #
               </span>
               HOW TO BUY THE <br /> BILLIONAIRE{" "}
-              <span className=" text-button next">$WUB</span> <br /> MEMECOIN ON
+              <span className=" text-button next">$MUB</span> <br /> MEMECOIN ON
               BONK.FUN
             </h1>
           </div>
@@ -275,7 +275,7 @@ function App() {
                       SWAP
                     </h1>
                     <p className=" text-black/80 text-center text-sm">
-                      Switch SOL For $WUb.
+                      Switch SOL For $MUB.
                     </p>
                   </div>
                 </div>
@@ -317,7 +317,7 @@ function App() {
         {/* tokenomics end */}
         {/* footer  */}
         <p className=" text-2xl text-center py-8 hero">
-          © {new Date().getFullYear()} WUB
+          © {new Date().getFullYear()} MUB
         </p>
         {/* footer end */}
       </div>
